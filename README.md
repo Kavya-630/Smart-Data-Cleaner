@@ -353,9 +353,12 @@ For issues or questions:
 2. Review the Common Questions
 3. Examine the example workflow
 
+
+for Demo - https://smart-data-cleaner-2nzhhq9phihvxxs5wfffso.streamlit.app/
 ---
 
 **Built with ❤️ using Streamlit, scikit-learn, and pandas**
 
 **Version:** 2.0.0  
+
 **Last Updated:** 2025-11-18
